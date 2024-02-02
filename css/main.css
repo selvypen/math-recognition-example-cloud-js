@@ -1,0 +1,63 @@
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+.navbar {
+  border-bottom: 1px solid #444;
+  min-height: 68px;
+}
+
+.navbar-brand {
+  padding: 0 10px;
+  height: 52px;
+  line-height: 52px;
+}
+
+.color-selvy-math {
+  color: #5577fb;
+}
+
+.bg-color-dark {
+  background-color: #343A40;
+}
+
+#hwrCanvas {
+  background-color: #ffffff;
+}
+
+.candidate-row {
+  position: absolute;
+  width: 100%;
+  top: 69px;
+  background-color: #eeeeee;
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+  font-size: 150%;
+  border-bottom: 1px solid #dee2e6;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.recognition-type {
+  position: absolute;
+  top: 189px;
+  left: 20px;
+  width: 150px;
+}
+
+.help-tool {
+  position: absolute;
+  top: 191px;
+  left: 180px;
+}
+
+.func-tool {
+  position: absolute;
+  top: 191px;
+  right: 20px;
+}
+
+.head-border {
+  border-bottom: 1px solid #cccccc;
+}
